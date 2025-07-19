@@ -1,0 +1,23 @@
+#SUB1 {
+    color: blue;
+}
+
+#SUB2 {
+    color: yellow;
+}
+
+#SUB3 {
+    color: violet;
+}
+
+#SUB4 {
+    color: green;
+}
+
+#SUB5 {
+    color: red;
+}
+
+* {
+    background-color: grey;
+}
